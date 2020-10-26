@@ -1,0 +1,12 @@
+{
+    "inline": true,
+    "buttons": [
+      [{
+        "action": {
+          "type": "vkpay",
+          "payload": "{\"button\":\"1\"}",
+          "hash": "action=pay-to-group&group_id=145153671&amount=1"
+        }
+      }]
+    ]
+  }

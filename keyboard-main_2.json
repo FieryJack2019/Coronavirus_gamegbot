@@ -1,0 +1,63 @@
+{
+    "one_time": false,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "💊 Выпить"
+        },
+        "color": "primary"
+      },
+        {
+          "action": {
+            "type": "text",
+            "label": "🔮 Эликсир"
+          },
+          "color": "primary"
+        },
+        {
+            "action": {
+              "type": "text",
+              "label": "💉 Аптечка"
+            },
+            "color": "primary"
+          }],
+      [{
+        "action": {
+          "type": "text",
+          "label": "☠ Заразить"
+        },
+        "color": "negative"
+       },
+       {
+        "action": {
+          "type": "text",
+          "label": "😷 Профиль"
+        },
+        "color": "default"
+       },
+       {
+        "action": {
+          "type": "text",
+          "label": "⭐ Топ"
+        },
+        "color": "positive"
+       }],
+      [
+        {
+          "action": {
+            "type": "text",
+            "label": "💯 Отписаться от рассылки"
+          },
+          "color": "default" 
+         },
+         {
+          "action": {
+            "type": "open_link",
+            "link": "http://maskishopi.ru/",
+            "label": "😷 Надеть маску 😷"
+          }
+        }
+      ]
+    ]
+  }

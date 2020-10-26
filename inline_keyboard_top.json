@@ -1,0 +1,12 @@
+{
+    "inline": true,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "📊 Топ 100"
+        },
+        "color": "primary"
+      }]
+    ]
+  }

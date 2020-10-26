@@ -1,0 +1,40 @@
+{
+    "one_time": false,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "💊 1"
+        },
+        "color": "default"
+      },
+        {
+          "action": {
+            "type": "text",
+            "label": "💊 10"
+          },
+          "color": "default"
+        }],
+      [{
+        "action": {
+          "type": "text",
+          "label": "💊 5"
+        },
+        "color": "default"
+       },
+       {
+        "action": {
+          "type": "text",
+          "label": "💊 50"
+        },
+        "color": "default"
+       }],
+       [{
+        "action": {
+            "type": "text",
+            "label": "😷 Профиль"
+          },
+          "color": "default"
+       }]
+    ]
+  }

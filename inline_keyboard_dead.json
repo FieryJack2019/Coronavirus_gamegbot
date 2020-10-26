@@ -1,0 +1,19 @@
+{
+    "inline": true,
+    "buttons": [
+        [{
+            "action": {
+              "type": "text",
+              "label": "💀 Заразить"
+            },
+            "color": "negative"
+          }],
+      [{
+        "action": {
+          "type": "text",
+          "label": "💳 Оплатить"
+        },
+        "color": "primary"
+      }]
+    ]
+  }

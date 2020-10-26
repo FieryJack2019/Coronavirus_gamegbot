@@ -1,0 +1,41 @@
+{
+    "one_time": false,
+    "buttons": [
+      [{
+        "action": {
+          "type": "text",
+          "label": "💊 Таблетки"
+        },
+        "color": "primary"
+      },
+        {
+          "action": {
+            "type": "text",
+            "label": "☠ Заражения"
+          },
+          "color": "primary"
+        },
+        {
+            "action": {
+              "type": "text",
+              "label": "⌛ Время жизни"
+            },
+            "color": "primary"
+          }],
+      [{
+        "action": {
+          "type": "text",
+          "label": "👬 Друзья"
+        },
+        "color": "default"
+       },
+       {
+        "action": {
+          "type": "text",
+          "label": "😷 Профиль"
+        },
+        "color": "positive"
+       }
+       ]
+    ]
+  }
