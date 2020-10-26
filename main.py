@@ -16,7 +16,7 @@ import os
 
 #vk = vk_api.VkApi(login = input("Введите логин: "), password = 'Введите пароль: ')
 #ee144cc76dde314e4fe3161f41313d06e59b9fd9f6ae2c281481c03867c86caf948f06c132271c431860b
-vk_session = vk_api.VkApi(token='e7f3bb0a524360c9faff854cad284b62cf761827e35e4df2f430e72e45f45ff89975b39652c9900dbc3a4')
+vk_session = vk_api.VkApi(token='')
 longpoll = VkBotLongPoll(vk_session, '145153671')
 
 
